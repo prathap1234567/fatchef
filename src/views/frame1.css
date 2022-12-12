@@ -1,0 +1,139 @@
+.frame1-container {
+    min-height: 100vh;
+  }
+  .frame1-frame1 {
+    width: 100%;
+    height: 1024px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .frame1-joecaltierer9n-i-ww6j0lgunsplash1 {
+    top: -972px;
+    left: -1337px;
+    width: 4096px;
+    height: 2731px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .frame1-text {
+    top: 18px;
+    left: 570px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 60px;
+    align-self: auto;
+    font-style: One;
+    text-align: left;
+    font-family: Fjord;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .frame1-text02 {
+    top: 93px;
+    left: 212px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 60px;
+    align-self: auto;
+    font-style: One;
+    text-align: left;
+    font-family: Fjord;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .frame1-text04 {
+    top: 291px;
+    left: 72px;
+    color: rgba(255, 255, 255, 1);
+    width: 351px;
+    height: auto;
+    position: absolute;
+    font-size: 60px;
+    align-self: auto;
+    font-style: One;
+    text-align: left;
+    font-family: Fjord;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .frame1-rectangle7 {
+    top: 701px;
+    left: 440px;
+    width: 481px;
+    height: 115px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .frame1-rectangle10 {
+    top: 580px;
+    left: 440px;
+    width: 423px;
+    height: 55px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .frame1-rectangle8 {
+    top: 300px;
+    left: 440px;
+    width: 423px;
+    height: 55px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .frame1-rectangle9 {
+    top: 430px;
+    left: 440px;
+    width: 423px;
+    height: 55px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .frame1-rectangle11 {
+    top: 844px;
+    left: 1046px;
+    width: 299px;
+    height: 97px;
+    opacity: 0.50;
+    position: absolute;
+    border-color: transparent;
+    border-radius: 50px;
+  }
+  .frame1-text19 {
+    top: 855px;
+    left: 1079px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 60px;
+    align-self: auto;
+    font-style: One;
+    text-align: left;
+    font-family: Fjord;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  
